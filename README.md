@@ -9,6 +9,7 @@
 - 📫 How to reach me: Email: jayprasad2002@gmail.com , Twitter: [@JayPd10](https://twitter.com/JayPd10)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just graduated high school!
+- 💬: I frequently post on: [studentbase](https://studentbase.app/caie/a-level/computer-science)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay179-sudo&count_private=true)
 
