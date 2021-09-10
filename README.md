@@ -6,7 +6,12 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: Email: jayprasad2002@gmail.com , Twitter: [@JayPd10](https://twitter.com/JayPd10)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just graduated high school!
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay179-sudo&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay179-sudo)
+
+
