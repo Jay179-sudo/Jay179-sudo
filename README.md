@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay!</h1>
-<h3 align="center">A second-year student at IIIT, Gwalior! I focus primarily on backend development!</h3>
+<h3 align="center">A third-year student at IIIT, Gwalior! I focus primarily on backend development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay179-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="jay179-sudo" /> </p>
 
