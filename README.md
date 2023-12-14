@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jay!</h1>
-<h3 align="center">A third-year student at IIIT, Gwalior! I focus primarily on backend development!</h3>
+<h1 align="center">Hi, I'm Jay!</h1>
+<h3 align="center">A third-year student at IIIT, Gwalior. I focus primarily on backend development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay179-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="jay179-sudo" /> </p>
 
-- 🔭 I’m currently working on **a Hostel Management Software!**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Jay179-sudo?tab=repositories)
 
-- 🌱 I’m currently learning **Kubernetes!**
+- 📝 I regularly write articles on [Studentbase](https://studentbase.app/caie/a-level/computer-science)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jay179-sudo?tab=repositories](https://github.com/Jay179-sudo?tab=repositories)
-
-- 📝 I regularly write articles on [https://studentbase.app/caie/a-level/computer-science](https://studentbase.app/caie/a-level/computer-science)
-
-- 💬 Ask me about **Python, Django, Nginx, Docker, SQL, Cloud or anything in the real of backend development! I will try my best to answer! 🙂**
-
-- 📫 How to reach me **jayprasadwork9@gmail.com**
+- 📫 How to reach me **jay2002prasad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
