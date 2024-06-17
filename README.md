@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Jay!</h1>
-<h3 align="center">A third-year student at IIIT, Gwalior. I focus primarily on backend development!</h3>
+<h3 align="center">I like working with distributed systems!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay179-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="jay179-sudo" /> </p>
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Jay179-sudo?tab=repositories)
-
-- 📝 I regularly write articles on [Studentbase](https://studentbase.app/caie/a-level/computer-science)
-
-- 📫 How to reach me **jay2002prasad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
